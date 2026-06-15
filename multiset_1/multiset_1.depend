@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1778625053 source:c:\users\hp\desktop\newobj\multiset_1\main.cpp
+	<iostream>
+	<vector>
+	<set>
+
